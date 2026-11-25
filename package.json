@@ -1,0 +1,11 @@
+{
+  "name": "utc-to-local-time",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "jsdom": "^27.0.1"
+  }
+}
